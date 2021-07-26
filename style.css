@@ -1,0 +1,16 @@
+.player_1 {
+    color: black;
+    text-align: center;
+}
+#login {
+    padding-bottom: 30px;
+}
+body {
+    text-align: center;
+    background-image: url('https://i.pinimg.com/originals/ea/ee/ac/eaeeacdf7dc3b0a1ccb91c2e7a97121d.jpg');
+}
+.button {
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+}
